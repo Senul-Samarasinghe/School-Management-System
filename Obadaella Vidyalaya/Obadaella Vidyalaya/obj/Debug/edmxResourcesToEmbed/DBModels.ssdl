@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Obadaella_VidyalayaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Class_ID" />
+    </Key>
+    <Property Name="Class_ID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Class_Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employee_Attendance">
+    <Key>
+      <PropertyRef Name="ATTENDID" />
+    </Key>
+    <Property Name="ATTENDID" Type="int" Nullable="false" />
+    <Property Name="EMPCODE" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPNAME" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="DESIGNATION" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="STATUS" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="DATE" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Employee_Register">
+    <Key>
+      <PropertyRef Name="EMPCODE" />
+    </Key>
+    <Property Name="EMPNO" Type="int" Nullable="false" />
+    <Property Name="EMPCODE" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPNAME" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPDESIGNATION" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPNIC" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPADDRESS" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPGENDER" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPDOB" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPCONTACT" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPEMAIL" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPDATE" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employee_Tasks">
+    <Key>
+      <PropertyRef Name="TASKID" />
+    </Key>
+    <Property Name="TASKID" Type="int" Nullable="false" />
+    <Property Name="EMPCODE" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="EMPLOYEENAME" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="TASKNAME" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="TASKDATE" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmployeeSalaryDetails">
+    <Key>
+      <PropertyRef Name="EmpPayID" />
+    </Key>
+    <Property Name="EmpSalNo" Type="int" Nullable="false" />
+    <Property Name="EmpPayID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EmployeeID" Type="varchar" MaxLength="50" />
+    <Property Name="Bank" Type="varchar" MaxLength="250" />
+    <Property Name="Branch" Type="varchar" MaxLength="250" />
+    <Property Name="Account" Type="varchar" MaxLength="50" />
+    <Property Name="Basic" Type="int" />
+    <Property Name="Allowances" Type="int" />
+    <Property Name="Loan" Type="int" />
+    <Property Name="TotalSalary" Type="int" />
+  </EntityType>
+  <EntityType Name="Events_Create">
+    <Key>
+      <PropertyRef Name="EVENTNO" />
+    </Key>
+    <Property Name="EVENTNO" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EVENTID" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="EVENTNAME" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="EVENTVENUE" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="EVENTDISCRIPTION" Type="nvarchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hall">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="Hall_id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Hall_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Class" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Notice_Create">
+    <Key>
+      <PropertyRef Name="NOTICENO" />
+    </Key>
+    <Property Name="NOTICENO" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NOTICEID" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="NOTICE" Type="nvarchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Results">
+    <Key>
+      <PropertyRef Name="R_ID" />
+    </Key>
+    <Property Name="R_ID" Type="int" Nullable="false" />
+    <Property Name="S_ID" Type="nvarchar" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Class" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sinhala" Type="int" />
+    <Property Name="Buddhism" Type="int" />
+    <Property Name="Maths" Type="int" />
+    <Property Name="Science" Type="int" />
+    <Property Name="English" Type="int" />
+    <Property Name="Easthetic" Type="int" />
+    <Property Name="Total" Type="int" />
+    <Property Name="Average" Type="int" />
+    <Property Name="Grade" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StudentPayment">
+    <Key>
+      <PropertyRef Name="StudentPayNo" />
+    </Key>
+    <Property Name="StudentPayNo" Type="int" Nullable="false" />
+    <Property Name="StudentID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="StudentName" Type="varchar" MaxLength="250" />
+    <Property Name="StudentGrade" Type="varchar" MaxLength="50" />
+    <Property Name="ExamFee" Type="varchar" MaxLength="50" />
+    <Property Name="FacilityFee" Type="varchar" MaxLength="50" />
+    <Property Name="TotalFee" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Timetable">
+    <Key>
+      <PropertyRef Name="T_id" />
+    </Key>
+    <Property Name="T_id" Type="int" Nullable="false" />
+    <Property Name="Date" Type="nvarchar" MaxLength="50" />
+    <Property Name="A" Type="nvarchar" MaxLength="50" />
+    <Property Name="B" Type="nvarchar" MaxLength="50" />
+    <Property Name="C" Type="nvarchar" MaxLength="50" />
+    <Property Name="D" Type="nvarchar" MaxLength="50" />
+    <Property Name="E" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TT">
+    <Key>
+      <PropertyRef Name="ClassPeriod" />
+    </Key>
+    <Property Name="ClassPeriod" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Monday" Type="nvarchar" MaxLength="20" />
+    <Property Name="Tuesday" Type="nvarchar" MaxLength="20" />
+    <Property Name="Wednesday" Type="nvarchar" MaxLength="20" />
+    <Property Name="Thursday" Type="nvarchar" MaxLength="20" />
+    <Property Name="Friday" Type="nvarchar" MaxLength="20" />
+    <Property Name="CountP" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users_Table">
+    <Key>
+      <PropertyRef Name="EMPLOYEEID" />
+    </Key>
+    <Property Name="USERNO" Type="int" Nullable="false" />
+    <Property Name="EMPLOYEEID" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Obadaella_VidyalayaModelStoreContainer">
+    <EntitySet Name="Class" EntityType="Self.Class" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee_Attendance" EntityType="Self.Employee_Attendance" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee_Register" EntityType="Self.Employee_Register" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee_Tasks" EntityType="Self.Employee_Tasks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeSalaryDetails" EntityType="Self.EmployeeSalaryDetails" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Events_Create" EntityType="Self.Events_Create" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hall" EntityType="Self.Hall" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notice_Create" EntityType="Self.Notice_Create" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Results" EntityType="Self.Results" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StudentPayment" EntityType="Self.StudentPayment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Timetable" EntityType="Self.Timetable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TT" EntityType="Self.TT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users_Table" EntityType="Self.Users_Table" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

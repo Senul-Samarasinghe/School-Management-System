@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Obadaella_VidyalayaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Class">
+    <Key>
+      <PropertyRef Name="Class_ID" />
+    </Key>
+    <Property Name="Class_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Class_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employee_Attendance">
+    <Key>
+      <PropertyRef Name="ATTENDID" />
+    </Key>
+    <Property Name="ATTENDID" Type="Int32" Nullable="false" />
+    <Property Name="EMPCODE" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPNAME" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DESIGNATION" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="STATUS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DATE" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Employee_Register">
+    <Key>
+      <PropertyRef Name="EMPCODE" />
+    </Key>
+    <Property Name="EMPNO" Type="Int32" Nullable="false" />
+    <Property Name="EMPCODE" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPNAME" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPDESIGNATION" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPNIC" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPADDRESS" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPGENDER" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPDOB" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPCONTACT" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPEMAIL" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EMPDATE" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Employee_Tasks">
+    <Key>
+      <PropertyRef Name="TASKID" />
+    </Key>
+    <Property Name="TASKID" Type="Int32" Nullable="false" />
+    <Property Name="EMPCODE" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EMPLOYEENAME" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TASKNAME" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TASKDATE" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="EmployeeSalaryDetail">
+    <Key>
+      <PropertyRef Name="EmpPayID" />
+    </Key>
+    <Property Name="EmpSalNo" Type="Int32" Nullable="false" />
+    <Property Name="EmpPayID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EmployeeID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Bank" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Branch" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Account" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Basic" Type="Int32" />
+    <Property Name="Allowances" Type="Int32" />
+    <Property Name="Loan" Type="Int32" />
+    <Property Name="TotalSalary" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Events_Create">
+    <Key>
+      <PropertyRef Name="EVENTNO" />
+    </Key>
+    <Property Name="EVENTNO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EVENTID" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EVENTNAME" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EVENTVENUE" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EVENTDISCRIPTION" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Hall">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Hall_id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Hall_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Class" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Notice_Create">
+    <Key>
+      <PropertyRef Name="NOTICENO" />
+    </Key>
+    <Property Name="NOTICENO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NOTICEID" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NOTICE" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Result">
+    <Key>
+      <PropertyRef Name="R_ID" />
+    </Key>
+    <Property Name="R_ID" Type="Int32" Nullable="false" />
+    <Property Name="S_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Class" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sinhala" Type="Int32" />
+    <Property Name="Buddhism" Type="Int32" />
+    <Property Name="Maths" Type="Int32" />
+    <Property Name="Science" Type="Int32" />
+    <Property Name="English" Type="Int32" />
+    <Property Name="Easthetic" Type="Int32" />
+    <Property Name="Total" Type="Int32" />
+    <Property Name="Average" Type="Int32" />
+    <Property Name="Grade" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="StudentPayment">
+    <Key>
+      <PropertyRef Name="StudentPayNo" />
+    </Key>
+    <Property Name="StudentPayNo" Type="Int32" Nullable="false" />
+    <Property Name="StudentID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="StudentName" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="StudentGrade" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ExamFee" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FacilityFee" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalFee" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Timetable">
+    <Key>
+      <PropertyRef Name="T_id" />
+    </Key>
+    <Property Name="T_id" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="B" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="C" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="D" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="E" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TT">
+    <Key>
+      <PropertyRef Name="ClassPeriod" />
+    </Key>
+    <Property Name="ClassPeriod" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Monday" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Tuesday" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Wednesday" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Thursday" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Friday" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="CountP" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users_Table">
+    <Key>
+      <PropertyRef Name="EMPLOYEEID" />
+    </Key>
+    <Property Name="USERNO" Type="Int32" Nullable="false" />
+    <Property Name="EMPLOYEEID" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="USERNAME" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Obadaella_VidyalayaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Classes" EntityType="Self.Class" />
+    <EntitySet Name="Employee_Attendance" EntityType="Self.Employee_Attendance" />
+    <EntitySet Name="Employee_Register" EntityType="Self.Employee_Register" />
+    <EntitySet Name="Employee_Tasks" EntityType="Self.Employee_Tasks" />
+    <EntitySet Name="EmployeeSalaryDetails" EntityType="Self.EmployeeSalaryDetail" />
+    <EntitySet Name="Events_Create" EntityType="Self.Events_Create" />
+    <EntitySet Name="Halls" EntityType="Self.Hall" />
+    <EntitySet Name="Notice_Create" EntityType="Self.Notice_Create" />
+    <EntitySet Name="Results" EntityType="Self.Result" />
+    <EntitySet Name="StudentPayments" EntityType="Self.StudentPayment" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Timetables" EntityType="Self.Timetable" />
+    <EntitySet Name="TTs" EntityType="Self.TT" />
+    <EntitySet Name="Users_Table" EntityType="Self.Users_Table" />
+  </EntityContainer>
+</Schema>

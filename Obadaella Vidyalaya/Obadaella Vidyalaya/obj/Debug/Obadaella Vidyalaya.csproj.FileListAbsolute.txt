@@ -1,0 +1,292 @@
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.AssemblyReference.cache
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeAttendancePage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeHomePage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeRegisterPage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeTaskPage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Properties.Resources.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.GenerateResource.cache
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CoreCompileInputs.cache
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe.config
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.pdb
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.xml
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CopyComplete
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.exe
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.pdb
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginPage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.MainHomePage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalary.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.PaymentHome.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\stdole.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesDetailsView.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesAttendanceView.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpAttendanceReports.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginRegisterPage.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Student_Payments_Page.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalarysDetailsView.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentView.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpSalaryRepors.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentReports.resources
+C:\Users\Suran Sandeepa\Desktop\Coding\C#\Obadaella Vidyalaya\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeReports.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.AssemblyReference.cache
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpAttendanceReports.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeAttendancePage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeHomePage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeRegisterPage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeReports.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpSalaryRepors.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalary.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalarysDetailsView.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesAttendanceView.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesDetailsView.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeTaskPage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginPage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginRegisterPage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.MainHomePage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.PaymentHome.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Properties.Resources.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Student_Payments_Page.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentView.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentReports.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTEdit.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTMainPage.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTReport.resources
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.GenerateResource.cache
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CoreCompileInputs.cache
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.exe
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.pdb
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe.config
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.pdb
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Shared.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\ShockwaveFlashObjects.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\stdole.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.xml
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CopyComplete
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe.config
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.pdb
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\AxShockwaveFlashObjects.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Shared.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\ShockwaveFlashObjects.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\stdole.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.xml
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.xml
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.AssemblyReference.cache
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpAttendanceReports.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeAttendancePage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeHomePage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeRegisterPage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeReports.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpSalaryRepors.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalary.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalarysDetailsView.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesAttendanceView.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesDetailsView.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeTaskPage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginPage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginRegisterPage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.MainHomePage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.PaymentHome.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Properties.Resources.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Student_Payments_Page.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentView.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentReports.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTEdit.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTMainPage.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTReport.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.GenerateResource.cache
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CoreCompileInputs.cache
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CopyComplete
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.exe
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.pdb
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHomeManagement.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHallManagement.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamResultsManagement.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableManagement.resources
+F:\project zip\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableReports.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe.config
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.pdb
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\AxShockwaveFlashObjects.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Shared.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\ShockwaveFlashObjects.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\stdole.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.xml
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.AssemblyReference.cache
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpAttendanceReports.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeAttendancePage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeHomePage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeRegisterPage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeReports.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHomeManagement.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHallManagement.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamResultsManagement.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableManagement.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableReports.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpSalaryRepors.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalary.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalarysDetailsView.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesAttendanceView.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesDetailsView.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeTaskPage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginPage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginRegisterPage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.MainHomePage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.PaymentHome.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Properties.Resources.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Student_Payments_Page.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentView.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentReports.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTEdit.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTMainPage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTReport.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.GenerateResource.cache
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CoreCompileInputs.cache
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CopyComplete
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.exe
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.pdb
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventManagementHome.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.AddSpecialNotices.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventCreatePage.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventCreateReport.resources
+D:\database\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.SNReport.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe.config
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.exe
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\Obadaella Vidyalaya.pdb
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\AxShockwaveFlashObjects.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Shared.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\ShockwaveFlashObjects.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\stdole.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.xml
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.AssemblyReference.cache
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.AddSpecialNotices.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpAttendanceReports.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeAttendancePage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeHomePage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeRegisterPage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeReports.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventCreatePage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventCreateReport.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EventManagementHome.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHomeManagement.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamHallManagement.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamResultsManagement.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableManagement.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.ExamTimetableReports.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmpSalaryRepors.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalary.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeSalarysDetailsView.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesAttendanceView.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeesDetailsView.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.EmployeeTaskPage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginPage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.LoginRegisterPage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.MainHomePage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.PaymentHome.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Properties.Resources.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.Student_Payments_Page.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentView.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.StudentPaymentReports.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.SNReport.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTEdit.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTMainPage.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella_Vidyalaya.TTReport.resources
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.GenerateResource.cache
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CoreCompileInputs.cache
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.csproj.CopyComplete
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.exe
+D:\c#\Final\Obadaella Vidyalaya\Obadaella Vidyalaya\obj\Debug\Obadaella Vidyalaya.pdb
